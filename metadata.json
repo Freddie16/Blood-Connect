@@ -1,0 +1,8 @@
+{
+  "name": "BloodConnect",
+  "description": "A mobile-first platform connecting verified blood donors, hospitals, and patients in real-time to bridge the critical blood supply gap in Kenya.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
